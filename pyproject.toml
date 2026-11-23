@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "screendetox-youtube-collector"
+version = "0.1.0"
+description = "Collects YouTube video metadata for the ScreenDetox research dataset"
+requires-python = ">=3.10"
+dependencies = [
+    "google-api-python-client>=2.130",
+    "isodate>=0.6",
+    "python-dotenv>=1.0",
+    "pyyaml>=6.0",
+    "yt-dlp==2026.10.26",
+    "yt-dlp-ejs==0.8.0",
+    "Pillow==13.0.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+collector = "collector.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

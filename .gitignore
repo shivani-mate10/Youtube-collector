@@ -1,0 +1,33 @@
+# Secrets (never commit; share .env.example instead)
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# All collected data, labels, thumbnails and scraped frames/captions stay on your laptop
+data/
+
+# Label Studio local database and logs
+label_studio/*.log
+label_studio/*.sqlite3
+label_studio/media/
+label_studio/export/
+
+# Logs and temporary files
+*.log
+nohup.out
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

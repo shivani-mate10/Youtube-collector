@@ -1,0 +1,37 @@
+# Normal kids' channels (cartoons, nursery rhymes, songs, educational) collected as NORMAL_KIDS_VIDEO.
+# Add one entry per channel, same format as inappropriate_channels.yaml:
+#   - name: Channel Name
+#     url: https://www.youtube.com/@handle
+channels:
+- name: Green Gold TV
+  url: https://www.youtube.com/@GreenGoldTV
+
+- name: WowKidz
+  url: https://www.youtube.com/@WowKidz
+
+- name: Pogo
+  url: https://www.youtube.com/@Pogo
+
+- name: Nick India
+  url: https://www.youtube.com/@nickindiaofficial
+
+- name: Sony YAY!
+  url: https://www.youtube.com/@SonyYAY
+
+- name: Pokémon
+  url: https://www.youtube.com/@Pokemon
+
+- name: Sesame Workshop India
+  url: https://www.youtube.com/@SesameWorkshopIndia
+
+- name: The Body Coach TV
+  url: https://www.youtube.com/@TheBodyCoachTV
+
+- name: Art for Kids Hub
+  url: https://www.youtube.com/@ArtforKidsHub
+
+- name: TED-Ed
+  url: https://www.youtube.com/@TEDEd
+
+- name: National Geographic Kids
+  url: https://www.youtube.com/@NatGeoKids

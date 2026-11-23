@@ -1,0 +1,8 @@
+# Reviewers. Each gets their own Label Studio project and their own unique videos.
+# File names use the lower-case name (e.g. data/labels/raw/shivani.json).
+reviewers:
+  - Shivani
+  - Sampada
+  - Pratik
+  - Hrishikesh
+  - Saurabh

@@ -1,0 +1,69 @@
+# Channels whose videos are collected as INAPPROPRIATE (provisional source tag;
+# the real label comes from manual review).
+# channel_group is an optional note so mixed channels can be filtered later.
+channels:
+  - name: Happy Tree Friends HD
+    url: https://youtube.com/@happytreefriends_hd
+
+  - name: Ownage Pranks
+    url: https://youtube.com/@ownagepranks
+
+  - name: TheGamicissist
+    url: https://www.youtube.com/@TheGamicissist
+
+  - name: MeatCanyon
+    url: https://youtube.com/@meatcanyon
+
+  - name: Vegas Matt
+    url: https://youtube.com/@vegasmatt
+
+  - name: Lady Luck HQ
+    url: https://youtube.com/@ladyluckhq
+
+  - name: Mr. Hand Pay
+    url: https://youtube.com/@mrhandpay
+
+  - name: Soft White Underbelly
+    url: https://www.youtube.com/@SoftWhiteUnderbelly
+
+  - name: Tipsy Bartender
+    url: https://www.youtube.com/@TipsyBartender
+
+  - name: Law&Crime BodyCam
+    url: https://www.youtube.com/@lawandcrimebodycam
+
+  - name: EWU Crime Storytime
+    url: https://www.youtube.com/@EWUCrimeStorytime
+
+  - name: Dr Insanity
+    url: https://www.youtube.com/@DrInsanityCrime
+
+
+  # - name: GoodChills Studio
+  #   url: https://youtube.com/@goodchillsstudio
+  # - name: Thunder Glow Hero
+  #   url: https://www.youtube.com/@ThunderGlowHero
+  # - name: Kitty Coast
+  #   url: https://youtube.com/@kittycoast
+  # - name: X Studio
+  #   url: https://youtube.com/@x_studioa
+  # - name: BigBah
+  #   url: https://youtube.com/@bigbah
+  # - name: Go Cat
+  #   url: https://youtube.com/@go-cat-kittens
+  # - name: Markiplier
+  #   url: https://www.youtube.com/@markiplier
+  #   channel_group: mature_but_kids_watch
+  # - name: Live Insaan
+  #   url: https://www.youtube.com/channel/UCFwKgzKe-EdTz83r6wzhmOw
+  #   channel_group: mature_but_kids_watch
+  # - name: Cutie The Bunny
+  #   url: https://youtube.com/@cutiethebunny
+  # - name: CookieSwirlC
+  #   url: https://www.youtube.com/@CookieSwirlC
+  # - name: Alice and Mila
+  #   url: https://youtube.com/@alicemilaavatar
+  # - name: Nobody Gets In
+  #   url: https://youtube.com/@nobodygetsin
+  # - name: FunFull
+  #   url: https://youtube.com/@funfull-original
